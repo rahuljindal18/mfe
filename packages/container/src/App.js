@@ -4,7 +4,7 @@ import MarketingContainer from "./components/MarketingContainer";
 export default () => {
   return (
     <div>
-      <h1>Hi There!</h1>
+      <h1>Hi There!!</h1>
       <hr />
       <MarketingContainer />
     </div>
